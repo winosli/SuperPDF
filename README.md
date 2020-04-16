@@ -21,7 +21,7 @@ Welcome to Super PDF
 
 Why should i use this tool?
 
-You need to manipulate documents (merge / collapse / change, etc ...)
+You need to manipulate documents (merge / compress / change, etc ...)
 
 Super fast execution time with the ability to affect thousands of documents super fast.
 
